@@ -1,0 +1,15 @@
+.navbar {
+    min-height: 80px;
+}
+
+.bg-goodblue {
+    background-color: #110e57;
+    color: #110e57;
+    border-color: #0a0845;
+}
+
+.border-bottomblue {
+    background-color: #0a0845;
+    color: #0a0845;
+    border-color: #0a0845;
+}
